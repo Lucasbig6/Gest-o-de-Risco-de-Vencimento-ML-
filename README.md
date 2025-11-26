@@ -113,7 +113,7 @@ O sistema possui uma interface desenvolvida em **Streamlit**, permitindo:
 ### **1️⃣ Clonar o Repositório**
 
 ```bash
-git clone https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+git clone https://github.com/Lucasbig6/Gest-o-de-Risco-de-Vencimento-ML-.git
 cd nome-do-seu-projeto
 ```
 ### **2️⃣ Instalar Dependências**
